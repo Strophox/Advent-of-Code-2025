@@ -1,3 +1,5 @@
+pub mod day01;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Result: {}", day01::solution());
 }
